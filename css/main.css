@@ -324,7 +324,7 @@ header .border-img {
     bottom: -25px;
 }
 
-@media screen and (max-height: 450px) {
+@media screen and (max-height: 350px) {
     .sidenav {
         padding-top: 15px;
         z-index: 9999;
