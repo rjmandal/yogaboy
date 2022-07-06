@@ -324,13 +324,16 @@ header .border-img {
     bottom: -25px;
 }
 
-@media screen and (max-height: 400px) {
+@media screen and (max-height: 450px) {
     .sidenav {
         padding-top: 15px;
         z-index: 9999;
     }
     .sidenav a {
         font-size: 14px;
+    }
+    .container h1{
+        font-size: larger;
     }
 }
 
