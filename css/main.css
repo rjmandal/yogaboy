@@ -324,16 +324,13 @@ header .border-img {
     bottom: -25px;
 }
 
-@media screen and (max-height: 350px) {
+@media screen and (max-height: 400px) {
     .sidenav {
         padding-top: 15px;
         z-index: 9999;
     }
     .sidenav a {
         font-size: 14px;
-    }
-    .container h1{
-        font-size:small;
     }
 }
 
@@ -652,7 +649,7 @@ header .border-img {
 }
 
 .section-4 .right-part {
-    padding: 70px 0;
+    padding: 27px 0;
     padding-left: 50px;
 }
 
@@ -695,7 +692,7 @@ header .border-img {
 .section-4 p {
     font-size: 20px;
     padding-bottom: 20px;
-    padding-right: 660px;
+    padding-right: 10px;
 }
 
 .section-4 .btn-primary,
@@ -750,7 +747,7 @@ header .border-img {
 }
 
 .services .right-part {
-    padding-top: 70px;
+    padding-top: 40px;
     padding-left: 50px;
 }
 
@@ -782,7 +779,7 @@ header .border-img {
 .services p {
     font-size: 20px;
     padding-bottom: 20px;
-    padding-right: 660px;
+    padding-right: 360px;
 }
 
 .services a {
@@ -1176,7 +1173,6 @@ header .border-img {
 
 .copyright .border-img img {
     width: 100%;
-    padding-bottom: 30px;
     object-fit: cover;
     opacity: 0.2;
 }
